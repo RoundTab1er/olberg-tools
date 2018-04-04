@@ -1,0 +1,2 @@
+cd /anaconda2/lib/python2.7/site-packages/combinato
+bash combinato.sh
